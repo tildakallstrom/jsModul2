@@ -1,8 +1,8 @@
-let words3 = ["Hej", "Nej", "EJ", "Leverpastej", "42"];
-document.getElementById("array3").innerHTML = words3;
+let words4 = ["Hej", "Nej", "EJ", "Leverpastej", "42"];
+document.getElementById("array3").innerHTML = words4;
 
 function showRandomWord() {
-    let randomIndex = Math.floor(Math.random() * words3.length);
-    let randomWord = words3[randomIndex];
+    let randomIndex = Math.floor(Math.random() * words4.length);
+    let randomWord = words4[randomIndex];
     document.getElementById("display2").textContent = randomWord;
 }
