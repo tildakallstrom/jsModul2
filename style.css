@@ -29,3 +29,10 @@
   .slider .next {
     right: 0;
   }
+  #god-jul {
+    position: absolute;
+    top: 215vh;
+    left: 100px;
+    color: red;
+    font-size: 5em;
+  }
