@@ -34,5 +34,24 @@
     top: 215vh;
     left: 100px;
     color: red;
-    font-size: 5em;
+    font-size: 3em;
+    margin-bottom: 2em;
+  }
+
+  .text {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+
+  .text--small {
+    font-size: 12px;
+  }
+
+  .text--medium {
+    font-size: 18px;
+  }
+
+  .text--large {
+    font-size: 24px;
   }
