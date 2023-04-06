@@ -55,3 +55,10 @@
   .text--large {
     font-size: 24px;
   }
+
+  #god-jul2 {
+    position: absolute;
+    left: 0;
+    font-size: 36px;
+    transform: translate(0, -50%);
+  }
